@@ -2,6 +2,7 @@ package com.company;
 
 public class Array {
     public static void main(StringPractice[] args) {
+        System.out.println("Vivek code");
         int marks[]=new int[5];
         // filling array
 //      int marks1[]=new int[]{10,20,30,40,50}; another way of array initialization
